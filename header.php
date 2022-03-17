@@ -1,5 +1,4 @@
 <?php
-
 echo '
 <!DOCTYPE html>
 <html lang="en">
@@ -18,5 +17,5 @@ echo '
     <link rel="icon" href="img/logoIco.jpg">
     <title>Inicio</title>
 </head>
-'
+';
 ?>
