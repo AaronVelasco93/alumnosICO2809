@@ -18,7 +18,7 @@ include 'header.php';
         <tbody>
           <tr>
             <td>MARCO ANTONIO CORTES NAVA</td>
-            <td> <a href="">Web Site</a></td>
+            <td> <a href="MARCO_ANTONIO_CORTES_NAVA/index.php">Web Site</a></td>
           
           </tr>
           <tr>
