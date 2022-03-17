@@ -1,3 +1,6 @@
+<?php
+
+echo '
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,13 +18,5 @@
     <link rel="icon" href="img/logoIco.jpg">
     <title>Inicio</title>
 </head>
-<body>
-
-    <h1>Hola Mundo Aaron Velasco</h1>
-
-
-    
-
-    
-</body>
-</html>
+'
+?>
