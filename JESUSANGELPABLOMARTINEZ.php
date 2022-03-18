@@ -8,8 +8,6 @@ include ("header.php");
         <h1 class="center" >JESUS ANGEL PABLO MARTINEZ</h1>
     </head>
  
-    
-    MAGALI MONTSERRAT LIMA CORDOVA
 
 </body>
 </html>
